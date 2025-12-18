@@ -197,4 +197,13 @@ Commercial license.
 - Commercial use allowed
 - No subscriptions
 
+---
+
+## Plugin
+
+ACF Multiple Choice Grid is available as a commercial plugin.
+
+More information:
+[ACF Multiple Choice Grid Plugin](https://lukaskuenz.gumroad.com/l/acf-multiple-choice-grid)
+
 &copy; [Lukas K&uuml;nz](https://lukaskuenz.de)
